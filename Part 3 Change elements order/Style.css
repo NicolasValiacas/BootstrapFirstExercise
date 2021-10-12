@@ -1,0 +1,12 @@
+.mycontainer{
+    background-color: #CDB5F5;
+    border:1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+.block{
+    background-color: #CDB5F5;
+    border:1px solid black;
+    border-radius:5px;    
+    text-align: center;
+}
